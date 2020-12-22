@@ -8,35 +8,35 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-        "HashCode": 1404396968,
+        "HashCode": -253474517,
         "Kind": "Components.Component",
-        "Name": "BlazorSignalRApp.Client.App",
+        "Name": "BlazorSignalRApp.Client.Pages.FetchData",
         "AssemblyName": "BlazorSignalRApp.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "App"
+            "TagName": "FetchData"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorSignalRApp.Client.App"
+          "Common.TypeName": "BlazorSignalRApp.Client.Pages.FetchData"
         }
       },
       {
-        "HashCode": -1261099424,
+        "HashCode": -1118685595,
         "Kind": "Components.Component",
-        "Name": "BlazorSignalRApp.Client.App",
+        "Name": "BlazorSignalRApp.Client.Pages.FetchData",
         "AssemblyName": "BlazorSignalRApp.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "BlazorSignalRApp.Client.App"
+            "TagName": "BlazorSignalRApp.Client.Pages.FetchData"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorSignalRApp.Client.App",
+          "Common.TypeName": "BlazorSignalRApp.Client.Pages.FetchData",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -70,39 +70,6 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "BlazorSignalRApp.Client.Pages.Counter",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -253474517,
-        "Kind": "Components.Component",
-        "Name": "BlazorSignalRApp.Client.Pages.FetchData",
-        "AssemblyName": "BlazorSignalRApp.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorSignalRApp.Client.Pages.FetchData"
-        }
-      },
-      {
-        "HashCode": -1118685595,
-        "Kind": "Components.Component",
-        "Name": "BlazorSignalRApp.Client.Pages.FetchData",
-        "AssemblyName": "BlazorSignalRApp.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorSignalRApp.Client.Pages.FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorSignalRApp.Client.Pages.FetchData",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -318,6 +285,39 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "BlazorSignalRApp.Client.Shared.NavMenu",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1404396968,
+        "Kind": "Components.Component",
+        "Name": "BlazorSignalRApp.Client.App",
+        "AssemblyName": "BlazorSignalRApp.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorSignalRApp.Client.App"
+        }
+      },
+      {
+        "HashCode": -1261099424,
+        "Kind": "Components.Component",
+        "Name": "BlazorSignalRApp.Client.App",
+        "AssemblyName": "BlazorSignalRApp.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorSignalRApp.Client.App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorSignalRApp.Client.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },

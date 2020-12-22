@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/butterfly/pwawasm/BlazorSignalRApp/Client/BlazorSignalRApp.Client.csproj": {}
+    "/Users/butterfly/pwawasm/Client/BlazorSignalRApp.Client.csproj": {}
   },
   "projects": {
-    "/Users/butterfly/pwawasm/BlazorSignalRApp/Client/BlazorSignalRApp.Client.csproj": {
+    "/Users/butterfly/pwawasm/Client/BlazorSignalRApp.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/butterfly/pwawasm/BlazorSignalRApp/Client/BlazorSignalRApp.Client.csproj",
+        "projectUniqueName": "/Users/butterfly/pwawasm/Client/BlazorSignalRApp.Client.csproj",
         "projectName": "BlazorSignalRApp.Client",
-        "projectPath": "/Users/butterfly/pwawasm/BlazorSignalRApp/Client/BlazorSignalRApp.Client.csproj",
+        "projectPath": "/Users/butterfly/pwawasm/Client/BlazorSignalRApp.Client.csproj",
         "packagesPath": "/Users/butterfly/.nuget/packages/",
-        "outputPath": "/Users/butterfly/pwawasm/BlazorSignalRApp/Client/obj/",
+        "outputPath": "/Users/butterfly/pwawasm/Client/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/butterfly/.nuget/NuGet/NuGet.Config"
@@ -26,8 +26,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "/Users/butterfly/pwawasm/BlazorSignalRApp/Shared/BlazorSignalRApp.Shared.csproj": {
-                "projectPath": "/Users/butterfly/pwawasm/BlazorSignalRApp/Shared/BlazorSignalRApp.Shared.csproj"
+              "/Users/butterfly/pwawasm/Shared/BlazorSignalRApp.Shared.csproj": {
+                "projectPath": "/Users/butterfly/pwawasm/Shared/BlazorSignalRApp.Shared.csproj"
               }
             }
           }
@@ -48,6 +48,10 @@
             },
             "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
               "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.AspNetCore.SignalR.Client": {
               "target": "Package",
               "version": "[5.0.1, )"
             },
@@ -86,14 +90,14 @@
         }
       }
     },
-    "/Users/butterfly/pwawasm/BlazorSignalRApp/Shared/BlazorSignalRApp.Shared.csproj": {
+    "/Users/butterfly/pwawasm/Shared/BlazorSignalRApp.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/butterfly/pwawasm/BlazorSignalRApp/Shared/BlazorSignalRApp.Shared.csproj",
+        "projectUniqueName": "/Users/butterfly/pwawasm/Shared/BlazorSignalRApp.Shared.csproj",
         "projectName": "BlazorSignalRApp.Shared",
-        "projectPath": "/Users/butterfly/pwawasm/BlazorSignalRApp/Shared/BlazorSignalRApp.Shared.csproj",
+        "projectPath": "/Users/butterfly/pwawasm/Shared/BlazorSignalRApp.Shared.csproj",
         "packagesPath": "/Users/butterfly/.nuget/packages/",
-        "outputPath": "/Users/butterfly/pwawasm/BlazorSignalRApp/Shared/obj/",
+        "outputPath": "/Users/butterfly/pwawasm/Shared/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/butterfly/.nuget/NuGet/NuGet.Config"
