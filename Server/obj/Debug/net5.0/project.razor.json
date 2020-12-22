@@ -3911,35 +3911,35 @@
         }
       },
       {
-        "HashCode": 1404396968,
+        "HashCode": 1826023617,
         "Kind": "Components.Component",
-        "Name": "BlazorSignalRApp.Client.App",
+        "Name": "BlazorSignalRApp.Client.Pages.Index",
         "AssemblyName": "BlazorSignalRApp.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "App"
+            "TagName": "Index"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorSignalRApp.Client.App"
+          "Common.TypeName": "BlazorSignalRApp.Client.Pages.Index"
         }
       },
       {
-        "HashCode": -1261099424,
+        "HashCode": 739194897,
         "Kind": "Components.Component",
-        "Name": "BlazorSignalRApp.Client.App",
+        "Name": "BlazorSignalRApp.Client.Pages.Index",
         "AssemblyName": "BlazorSignalRApp.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "BlazorSignalRApp.Client.App"
+            "TagName": "BlazorSignalRApp.Client.Pages.Index"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorSignalRApp.Client.App",
+          "Common.TypeName": "BlazorSignalRApp.Client.Pages.Index",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -4010,35 +4010,35 @@
         }
       },
       {
-        "HashCode": 1826023617,
+        "HashCode": 1404396968,
         "Kind": "Components.Component",
-        "Name": "BlazorSignalRApp.Client.Pages.Index",
+        "Name": "BlazorSignalRApp.Client.App",
         "AssemblyName": "BlazorSignalRApp.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Index"
+            "TagName": "App"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorSignalRApp.Client.Pages.Index"
+          "Common.TypeName": "BlazorSignalRApp.Client.App"
         }
       },
       {
-        "HashCode": 739194897,
+        "HashCode": -1261099424,
         "Kind": "Components.Component",
-        "Name": "BlazorSignalRApp.Client.Pages.Index",
+        "Name": "BlazorSignalRApp.Client.App",
         "AssemblyName": "BlazorSignalRApp.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "BlazorSignalRApp.Client.Pages.Index"
+            "TagName": "BlazorSignalRApp.Client.App"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorSignalRApp.Client.Pages.Index",
+          "Common.TypeName": "BlazorSignalRApp.Client.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
