@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/butterfly/.dotnet/store/|arch|/|tfm|",
+      "/Users/butterfly/.nuget/packages"
+    ]
+  }
+}

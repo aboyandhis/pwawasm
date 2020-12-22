@@ -1,0 +1,12 @@
+/Users/butterfly/pwawasm/Shared/bin/Debug/net5.0/BlazorSignalRApp.Shared.deps.json
+/Users/butterfly/pwawasm/Shared/bin/Debug/net5.0/BlazorSignalRApp.Shared.dll
+/Users/butterfly/pwawasm/Shared/bin/Debug/net5.0/ref/BlazorSignalRApp.Shared.dll
+/Users/butterfly/pwawasm/Shared/bin/Debug/net5.0/BlazorSignalRApp.Shared.pdb
+/Users/butterfly/pwawasm/Shared/obj/Debug/net5.0/BlazorSignalRApp.Shared.csprojAssemblyReference.cache
+/Users/butterfly/pwawasm/Shared/obj/Debug/net5.0/BlazorSignalRApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/butterfly/pwawasm/Shared/obj/Debug/net5.0/BlazorSignalRApp.Shared.AssemblyInfoInputs.cache
+/Users/butterfly/pwawasm/Shared/obj/Debug/net5.0/BlazorSignalRApp.Shared.AssemblyInfo.cs
+/Users/butterfly/pwawasm/Shared/obj/Debug/net5.0/BlazorSignalRApp.Shared.csproj.CoreCompileInputs.cache
+/Users/butterfly/pwawasm/Shared/obj/Debug/net5.0/BlazorSignalRApp.Shared.dll
+/Users/butterfly/pwawasm/Shared/obj/Debug/net5.0/ref/BlazorSignalRApp.Shared.dll
+/Users/butterfly/pwawasm/Shared/obj/Debug/net5.0/BlazorSignalRApp.Shared.pdb

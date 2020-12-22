@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/butterfly/pwawasm/BlazorSignalRApp/Shared/BlazorSignalRApp.Shared.csproj",
+      "projectUniqueName": "/Users/butterfly/pwawasm/Shared/BlazorSignalRApp.Shared.csproj",
       "projectName": "BlazorSignalRApp.Shared",
-      "projectPath": "/Users/butterfly/pwawasm/BlazorSignalRApp/Shared/BlazorSignalRApp.Shared.csproj",
+      "projectPath": "/Users/butterfly/pwawasm/Shared/BlazorSignalRApp.Shared.csproj",
       "packagesPath": "/Users/butterfly/.nuget/packages/",
-      "outputPath": "/Users/butterfly/pwawasm/BlazorSignalRApp/Shared/obj/",
+      "outputPath": "/Users/butterfly/pwawasm/Shared/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/butterfly/.nuget/NuGet/NuGet.Config"
