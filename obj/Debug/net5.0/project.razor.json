@@ -107,92 +107,6 @@
         }
       },
       {
-        "HashCode": 1138226164,
-        "Kind": "Components.Component",
-        "Name": "pwawasm.Pages.Index",
-        "AssemblyName": "pwawasm",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "pwawasm.Pages.Index"
-        }
-      },
-      {
-        "HashCode": 1792372683,
-        "Kind": "Components.Component",
-        "Name": "pwawasm.Pages.Index",
-        "AssemblyName": "pwawasm",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "pwawasm.Pages.Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "pwawasm.Pages.Index",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1837650076,
-        "Kind": "Components.Component",
-        "Name": "pwawasm.Shared.SurveyPrompt",
-        "AssemblyName": "pwawasm",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "pwawasm.Shared.SurveyPrompt"
-        }
-      },
-      {
-        "HashCode": -841097454,
-        "Kind": "Components.Component",
-        "Name": "pwawasm.Shared.SurveyPrompt",
-        "AssemblyName": "pwawasm",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "pwawasm.Shared.SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "pwawasm.Shared.SurveyPrompt",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": -1504107015,
         "Kind": "Components.Component",
         "Name": "pwawasm.Shared.MainLayout",
@@ -289,9 +203,290 @@
         }
       },
       {
-        "HashCode": 89442165,
+        "HashCode": -1965851594,
         "Kind": "Components.Component",
-        "Name": "pwawasm.Shared.NavMenu",
+        "Name": "pwawasm.BlazorSignalRApp.Client.App",
+        "AssemblyName": "pwawasm",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "pwawasm.BlazorSignalRApp.Client.App"
+        }
+      },
+      {
+        "HashCode": 276006490,
+        "Kind": "Components.Component",
+        "Name": "pwawasm.BlazorSignalRApp.Client.App",
+        "AssemblyName": "pwawasm",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "pwawasm.BlazorSignalRApp.Client.App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "pwawasm.BlazorSignalRApp.Client.App",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -815461446,
+        "Kind": "Components.Component",
+        "Name": "pwawasm.BlazorSignalRApp.Client.Pages.Counter",
+        "AssemblyName": "pwawasm",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Counter"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "pwawasm.BlazorSignalRApp.Client.Pages.Counter"
+        }
+      },
+      {
+        "HashCode": -1854090675,
+        "Kind": "Components.Component",
+        "Name": "pwawasm.BlazorSignalRApp.Client.Pages.Counter",
+        "AssemblyName": "pwawasm",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "pwawasm.BlazorSignalRApp.Client.Pages.Counter"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "pwawasm.BlazorSignalRApp.Client.Pages.Counter",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 2091217902,
+        "Kind": "Components.Component",
+        "Name": "pwawasm.BlazorSignalRApp.Client.Pages.FetchData",
+        "AssemblyName": "pwawasm",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "pwawasm.BlazorSignalRApp.Client.Pages.FetchData"
+        }
+      },
+      {
+        "HashCode": -1484704185,
+        "Kind": "Components.Component",
+        "Name": "pwawasm.BlazorSignalRApp.Client.Pages.FetchData",
+        "AssemblyName": "pwawasm",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "pwawasm.BlazorSignalRApp.Client.Pages.FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "pwawasm.BlazorSignalRApp.Client.Pages.FetchData",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -520412713,
+        "Kind": "Components.Component",
+        "Name": "pwawasm.BlazorSignalRApp.Client.Pages.Index",
+        "AssemblyName": "pwawasm",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "pwawasm.BlazorSignalRApp.Client.Pages.Index"
+        }
+      },
+      {
+        "HashCode": -884545955,
+        "Kind": "Components.Component",
+        "Name": "pwawasm.BlazorSignalRApp.Client.Pages.Index",
+        "AssemblyName": "pwawasm",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "pwawasm.BlazorSignalRApp.Client.Pages.Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "pwawasm.BlazorSignalRApp.Client.Pages.Index",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -2082678938,
+        "Kind": "Components.Component",
+        "Name": "pwawasm.BlazorSignalRApp.Client.Shared.SurveyPrompt",
+        "AssemblyName": "pwawasm",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "pwawasm.BlazorSignalRApp.Client.Shared.SurveyPrompt"
+        }
+      },
+      {
+        "HashCode": -516720292,
+        "Kind": "Components.Component",
+        "Name": "pwawasm.BlazorSignalRApp.Client.Shared.SurveyPrompt",
+        "AssemblyName": "pwawasm",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "pwawasm.BlazorSignalRApp.Client.Shared.SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "pwawasm.BlazorSignalRApp.Client.Shared.SurveyPrompt",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 980898017,
+        "Kind": "Components.Component",
+        "Name": "pwawasm.BlazorSignalRApp.Client.Shared.MainLayout",
+        "AssemblyName": "pwawasm",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "MainLayout"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Body",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "Body",
+              "Components.ChildContent": "True"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "pwawasm.BlazorSignalRApp.Client.Shared.MainLayout"
+        }
+      },
+      {
+        "HashCode": -1744295541,
+        "Kind": "Components.Component",
+        "Name": "pwawasm.BlazorSignalRApp.Client.Shared.MainLayout",
+        "AssemblyName": "pwawasm",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "pwawasm.BlazorSignalRApp.Client.Shared.MainLayout"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Body",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "Body",
+              "Components.ChildContent": "True"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "pwawasm.BlazorSignalRApp.Client.Shared.MainLayout",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1364846472,
+        "Kind": "Components.ChildContent",
+        "Name": "pwawasm.BlazorSignalRApp.Client.Shared.MainLayout.Body",
+        "AssemblyName": "pwawasm",
+        "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Body",
+            "ParentTag": "MainLayout"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "pwawasm.BlazorSignalRApp.Client.Shared.MainLayout.Body",
+          "Components.IsSpecialKind": "Components.ChildContent"
+        }
+      },
+      {
+        "HashCode": 64756423,
+        "Kind": "Components.ChildContent",
+        "Name": "pwawasm.BlazorSignalRApp.Client.Shared.MainLayout.Body",
+        "AssemblyName": "pwawasm",
+        "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Body",
+            "ParentTag": "pwawasm.BlazorSignalRApp.Client.Shared.MainLayout"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "pwawasm.BlazorSignalRApp.Client.Shared.MainLayout.Body",
+          "Components.IsSpecialKind": "Components.ChildContent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -607547229,
+        "Kind": "Components.Component",
+        "Name": "pwawasm.BlazorSignalRApp.Client.Shared.NavMenu",
         "AssemblyName": "pwawasm",
         "CaseSensitive": true,
         "TagMatchingRules": [
@@ -301,23 +496,23 @@
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "pwawasm.Shared.NavMenu"
+          "Common.TypeName": "pwawasm.BlazorSignalRApp.Client.Shared.NavMenu"
         }
       },
       {
-        "HashCode": 991748452,
+        "HashCode": 1062492252,
         "Kind": "Components.Component",
-        "Name": "pwawasm.Shared.NavMenu",
+        "Name": "pwawasm.BlazorSignalRApp.Client.Shared.NavMenu",
         "AssemblyName": "pwawasm",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "pwawasm.Shared.NavMenu"
+            "TagName": "pwawasm.BlazorSignalRApp.Client.Shared.NavMenu"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "pwawasm.Shared.NavMenu",
+          "Common.TypeName": "pwawasm.BlazorSignalRApp.Client.Shared.NavMenu",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -12993,44 +13188,49 @@
   "RootNamespace": "pwawasm",
   "Documents": [
     {
-      "FilePath": "/Users/butterfly/pwawasm/Shared/NavMenu.razor",
-      "TargetPath": "Shared\\NavMenu.razor",
+      "FilePath": "/Users/butterfly/pwawasm/BlazorSignalRApp/Client/Shared/NavMenu.razor",
+      "TargetPath": "BlazorSignalRApp\\Client\\Shared\\NavMenu.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "/Users/butterfly/pwawasm/Shared/SurveyPrompt.razor",
-      "TargetPath": "Shared\\SurveyPrompt.razor",
+      "FilePath": "/Users/butterfly/pwawasm/BlazorSignalRApp/Server/Pages/Error.cshtml",
+      "TargetPath": "BlazorSignalRApp\\Server\\Pages\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/butterfly/pwawasm/BlazorSignalRApp/Client/Pages/FetchData.razor",
+      "TargetPath": "BlazorSignalRApp\\Client\\Pages\\FetchData.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "/Users/butterfly/pwawasm/Pages/Index.razor",
-      "TargetPath": "Pages\\Index.razor",
+      "FilePath": "/Users/butterfly/pwawasm/BlazorSignalRApp/Client/Shared/MainLayout.razor",
+      "TargetPath": "BlazorSignalRApp\\Client\\Shared\\MainLayout.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "/Users/butterfly/pwawasm/_Imports.razor",
-      "TargetPath": "_Imports.razor",
+      "FilePath": "/Users/butterfly/pwawasm/BlazorSignalRApp/Client/Pages/Counter.razor",
+      "TargetPath": "BlazorSignalRApp\\Client\\Pages\\Counter.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/butterfly/pwawasm/BlazorSignalRApp/Client/Pages/Index.razor",
+      "TargetPath": "BlazorSignalRApp\\Client\\Pages\\Index.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/butterfly/pwawasm/BlazorSignalRApp/Client/Shared/SurveyPrompt.razor",
+      "TargetPath": "BlazorSignalRApp\\Client\\Shared\\SurveyPrompt.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/butterfly/pwawasm/BlazorSignalRApp/Client/App.razor",
+      "TargetPath": "BlazorSignalRApp\\Client\\App.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/butterfly/pwawasm/BlazorSignalRApp/Client/_Imports.razor",
+      "TargetPath": "BlazorSignalRApp\\Client\\_Imports.razor",
       "FileKind": "componentImport"
-    },
-    {
-      "FilePath": "/Users/butterfly/pwawasm/Pages/FetchData.razor",
-      "TargetPath": "Pages\\FetchData.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/butterfly/pwawasm/Pages/Counter.razor",
-      "TargetPath": "Pages\\Counter.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/butterfly/pwawasm/Shared/MainLayout.razor",
-      "TargetPath": "Shared\\MainLayout.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/butterfly/pwawasm/App.razor",
-      "TargetPath": "App.razor",
-      "FileKind": "component"
     }
   ],
   "SerializationFormat": "0.2"
